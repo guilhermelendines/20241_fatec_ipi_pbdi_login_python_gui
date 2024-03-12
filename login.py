@@ -78,6 +78,7 @@ def menu():
 
 # def teste():
 #     print(existe(Usuario('admin', 'admin')))
+#
 
 # teste()
 menu()
